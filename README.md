@@ -3,7 +3,7 @@
 |    1   |   Learn API Technical   Writing: JSON and XML for Writers  |      18-12-2023      |
 |    2   |      Learn API Technical   Writing 2: REST for Writers     |      19-12-2023      |
 |    3   |               The Art of API   Documentation               |      22-12-2023      |
-|    4   | The New Trainer Guide   to Creating End User Documentation |      26-12-2026      |
+|    4   | The New Trainer Guide   to Creating End User Documentation |      26-12-2023      |
 |    5   |        Learn Swagger and the   OpenAPI Specification       |      29-12-2023      |
 |    6   |     Understanding APIs   and RESTFul APIs Crash Course     |      29-12-2023      |
 |    7   |            Understanding   Engineering Drawings            |      01-01-2024      |
